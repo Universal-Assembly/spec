@@ -1,2 +1,2 @@
-# OML
-"Open Machine Language" – For Crossplatform Desktop Applications Similar to Java
+# Open Machine Language
+Crossplatform Language Interoperable Bytecode for Crossplatform Desktop Applications
