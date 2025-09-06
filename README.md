@@ -29,6 +29,10 @@ If bytecode was designed from the beginning as a multi-language IR, it could:
 
 - Possibly match or beat JVM performance in more scenarios.
 
+#
+
+Java’s “Write Once, Run Anywhere” works only for pure Java code. Once you use platform-specific APIs (like such as Graphics Drivers, DirectX, Android SDK, or system libraries) or native interfaces (JNI), the app requires OS-specific binaries, breaking true portability. GUI differences and nonstandard runtimes (like Android’s ART) further prevent full “Write Once, Run Anywhere”.
+
 ## Oracle Ownership of Java
 
 Oracle’s ownership of Java gives it control over the JDK, the Java SE specifications, and the Java trademark, allowing it to dictate licensing, updates, and usage, which can lead to vendor lock-in, costly subscriptions, and legal risks for developers and enterprises.
