@@ -35,4 +35,4 @@ Java’s “Write Once, Run Anywhere” works only for pure Java code. Once you 
 
 ## Oracle Ownership of Java
 
-Oracle’s ownership of Java gives it control over the JDK, the Java SE specifications, and the Java trademark, allowing it to dictate licensing, updates, and usage, which can lead to vendor lock-in, costly subscriptions, and legal risks for developers and enterprises.
+Oracle’s ownership of Java gives it control over the Java SE specifications, and the Java trademark, allowing it to dictate licensing, updates, and usage, which can lead to vendor lock-in, costly subscriptions, and legal risks for developers and enterprises.
